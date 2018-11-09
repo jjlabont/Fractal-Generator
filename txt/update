@@ -1,0 +1,12 @@
+How to update escape limits
+
+1. Select file
+2. Select Set escape distance
+3. Enter escape distance
+4. It should reject anything you put in that isn't an int greater than or equal to 1
+
+How to update escape time
+1. Select file
+2. Select Set escape time
+3. Enter escape time 
+4. It should reject anything you put in that isn't an int greater than or equal to 1 or less than or equal to 255
